@@ -1,4 +1,5 @@
 leave*
 *.out
-
+*.in
+*.pyc
 !leave.out
